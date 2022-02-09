@@ -11,8 +11,8 @@ import (
 
 	"github.com/astaxie/beego/httplib"
 	"github.com/buger/jsonparser"
-	"github.com/douzicao/sillyGirl/core"
-	"github.com/douzicao/sillyGirl/develop/qinglong"
+	"github.com/a1014068504/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/develop/qinglong"
 )
 
 var jdWSCK = core.NewBucket("jdWSCK")

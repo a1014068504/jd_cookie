@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/beego/beego/v2/client/httplib"
-	"github.com/douzicao/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/core"
 )
 
 var jd_cookie = core.NewBucket("jd_cookie")

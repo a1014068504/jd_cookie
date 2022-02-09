@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/douzicao/sillyGirl/core"
-	"github.com/douzicao/sillyGirl/develop/qinglong"
+	"github.com/a1014068504/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/develop/qinglong"
 )
 
 func initEnv() {
